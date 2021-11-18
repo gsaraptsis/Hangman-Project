@@ -1,0 +1,7 @@
+E:\Αρχεία\Επιφάνεια Εργασίας\Σχολή\Οπτικός Προγραμματισμός\Εργαστήριο\Hangman\Project_hangman\Debug\Project_Hangman.vcxprojAssemblyReference.cache
+E:\Αρχεία\Επιφάνεια Εργασίας\Σχολή\Οπτικός Προγραμματισμός\Εργαστήριο\Hangman\Project_hangman\Debug\ProjectHangman.Intro.resources
+E:\Αρχεία\Επιφάνεια Εργασίας\Σχολή\Οπτικός Προγραμματισμός\Εργαστήριο\Hangman\Project_hangman\Debug\Project_Hangman.vcxproj.GenerateResource.cache
+E:\Αρχεία\Επιφάνεια Εργασίας\Σχολή\Οπτικός Προγραμματισμός\Εργαστήριο\Hangman\Project_hangman\Debug\Project_Hangman.exe
+E:\Αρχεία\Επιφάνεια Εργασίας\Σχολή\Οπτικός Προγραμματισμός\Εργαστήριο\Hangman\Project_hangman\Debug\Project_Hangman.pdb
+E:\Αρχεία\Επιφάνεια Εργασίας\Σχολή\Οπτικός Προγραμματισμός\Εργαστήριο\Hangman\Project_hangman\Debug\ProjectHangman.Game.resources
+E:\Αρχεία\Επιφάνεια Εργασίας\Σχολή\Οπτικός Προγραμματισμός\Εργαστήριο\Hangman\Project_hangman\Debug\ProjectHangman.How_to_Play.resources
